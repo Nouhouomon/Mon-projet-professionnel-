@@ -1,3 +1,3 @@
-# Mon-projet-professionnel-
+# Mon-projet(TPn°2-Exo2)-MIA3
 Plateforme UML de gestion des TD : matières, groupes (MI1, MI2…), affectation des étudiants et programmation des séances sans conflit de salle, d'enseignant ou de groupe. Les présences sont enregistrées par séance pour produire un bilan. Diagrammes : cas d'utilisation, classes, séquence, activités. Extension : emploi du temps automatique.
 Un système C++ orienté objet avec cinq classes (Etudiant, Filiere, UE, Matiere, Note). Une Filiere agrège des UE (1..), chaque UE compose ses Matieres (1..), et Note associe un Etudiant à une Matiere. Le programme calcule la moyenne pondérée, vérifie la validation des UE (moyenne ≥ 10) et affiche le relevé de notes complet.
